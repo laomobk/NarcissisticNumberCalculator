@@ -4,4 +4,4 @@
 
 使用方法：
 `javac NarcissisticNumber.java`
-`java NarcissisticNumber`
+`java NarcissisticNumber [位数]`
